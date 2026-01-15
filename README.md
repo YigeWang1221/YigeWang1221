@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+### About me
+My name is Eric Wang, I'am a Northeastern University trained programer insterested in all things in backend & AI.
+ 
+
 <!--
 **YigeWang1221/YigeWang1221** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +18,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
