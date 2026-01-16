@@ -27,7 +27,7 @@
 - **[Formular 1 predict ](https://github.com/dataSciF/6105DataSci)**  
   _Tech Stack:_ PyMC, MCMC, Bayesian Hierarchical Modeling   
   _Highlights:_  
-  - <Key feature or achievement>
+  - data collecting, cleaning, analysing by drawing re-built dataFrame
   - <Key feature or achievement>
 
 - **[Project Name 3](link-to-repo)**  
