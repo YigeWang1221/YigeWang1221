@@ -17,16 +17,15 @@
 
 ## 📂 Featured Projects
 
-> A selection of projects that showcase my experience in backend development, cloud infrastructure, and system design.
-
-- **[native cloud app](link-to-repo)**  
-  _Tech Stack:_ <Tech1, Tech2, Tech3>  
+- **[native cloud app](https://github.com/csye6225YigeWang)**  
+  _Tech Stack:_ AWS, Terraform, GitHub CI/CD pipeline, SpringBoot   
   _Highlights:_  
-  - <Key feature or achievement>
-  - <Key feature or achievement>
+  - build a fully automated GitHub Action pipeline from testing, packaging and aws deployment
+  - using AWS Terraform to manage multi-AZ AWS resourses including ec2, LB, KMS, S3, RDS and VPC with leasest IAM privilage
+  - writing a efficient Lambda funtion that recieving AWS SMS message and sending email to user
 
-- **[Project Name 2](link-to-repo)**  
-  _Tech Stack:_ <Tech1, Tech2, Tech3>  
+- **[Formular 1 predict ](https://github.com/dataSciF/6105DataSci)**  
+  _Tech Stack:_ PyMC, MCMC, Bayesian Hierarchical Modeling   
   _Highlights:_  
   - <Key feature or achievement>
   - <Key feature or achievement>
@@ -36,11 +35,6 @@
   _Highlights:_  
   - <Key feature or achievement>
   - <Key feature or achievement>
-
-- **[Project Name 4](link-to-repo)**  
-  _Tech Stack:_ <Tech1, Tech2, Tech3>  
-  _Highlights:_  
-  - <Key feature or_attachievement>
 
 ---
 
