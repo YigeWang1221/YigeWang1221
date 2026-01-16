@@ -25,16 +25,16 @@
   - writing a efficient Lambda funtion that recieving AWS SMS message and sending email to user
 
 - **[Formular 1 predict ](https://github.com/dataSciF/6105DataSci)**  
-  _Tech Stack:_ PyMC, MCMC, Bayesian Hierarchical Modeling   
+  _Tech Stack:_ python, PyMC, MCMC, Bayesian Hierarchical Model   
   _Highlights:_  
-  - data collecting, cleaning, analysing by drawing re-built dataFrame
-  - <Key feature or achievement>
-
-- **[Project Name 3](link-to-repo)**  
-  _Tech Stack:_ <Tech1, Tech2, Tech3>  
+   - Collected, cleaned, and analyzed historical race data; reconstructed structured DataFrames and formulated likelihood functions for Bayesian modeling.
+  - Built and trained a three-layer hierarchical Bayesian model incorporating five key performance factors.
+  - Applied Monte Carlo simulations to evaluate predictive outcomes (mean, mode, win probability) across 24 races over the past two seasons.
+- **[Equipment and Assignments management plantform]([link-to-repo](https://github.com/YigeWang1221/Equipments-Assignment))**  
+  _Tech Stack:_ Full Stack(SpringBoot & Vue.js), Rich text editor, MinIO
   _Highlights:_  
-  - <Key feature or achievement>
-  - <Key feature or achievement>
+  - 
+  - 
 
 ---
 
