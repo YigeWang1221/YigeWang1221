@@ -24,17 +24,18 @@
   - using AWS Terraform to manage multi-AZ AWS resourses including ec2, LB, KMS, S3, RDS and VPC with leasest IAM privilage
   - writing a efficient Lambda funtion that recieving AWS SMS message and sending email to user
 
-- **[Formular 1 predict ](https://github.com/dataSciF/6105DataSci)**  
-  _Tech Stack:_ python, PyMC, MCMC, Bayesian Hierarchical Model   
-  _Highlights:_  
-   - Collected, cleaned, and analyzed historical race data; reconstructed structured DataFrames and formulated likelihood functions for Bayesian modeling.
+- **[Formula 1 Predict](https://github.com/dataSciF/6105DataSci)**  
+  _Tech Stack:_ Python, PyMC, MCMC, Hierarchical Bayesian Modeling  
+  _Highlights:_
+  - Collected, cleaned, and analyzed historical race data; reconstructed structured DataFrames and formulated likelihood functions for Bayesian modeling.
   - Built and trained a three-layer hierarchical Bayesian model incorporating five key performance factors.
   - Applied Monte Carlo simulations to evaluate predictive outcomes (mean, mode, win probability) across 24 races over the past two seasons.
-- **[Equipment and Assignments management plantform]([link-to-repo](https://github.com/YigeWang1221/Equipments-Assignment))**  
-  _Tech Stack:_ Full Stack(SpringBoot & Vue.js), Rich text editor, MinIO
-  _Highlights:_  
-  - 
-  - 
+
+- **[Equipment & Assignment Management Platform](https://github.com/YigeWang1221/Equipments-Assignment)**  
+  _Tech Stack:_ Spring Boot, Vue.js, MySQL, MinIO, Rich Text Editor  
+  _Highlights:_
+  - Built a full-stack equipment and assignment management system with role-based access control.
+  - Implemented file/multi-media upload and rich-text content management using MinIO.
 
 ---
 
@@ -42,12 +43,10 @@
 
 ### Languages
 ![Java](https://img.shields.io/badge/Java-orange)
-![Go](https://img.shields.io/badge/Go-00ADD8)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
 
 ### Backend & Frameworks
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-green)
-![Node.js](https://img.shields.io/badge/Node.js-339933)
 ![React](https://img.shields.io/badge/React-61DAFB)
 
 ### Databases
@@ -68,13 +67,12 @@
 
 ## 📫 How to Reach Me
 
-- 💼 LinkedIn: <your-linkedin-url>
-- 📧 Email: <your-email>
-- 🌐 Portfolio / Blog (optional): <link>
+- 💼 LinkedIn: [Linkedin](https://www.linkedin.com/in/yigewang1221/)
+- 📧 Email: [email](wang.yige@northeastern.edu)
 
 ---
 
 ## 📌 Notes
 
-- Open to <internships / co-op / full-time roles>
-- Interested in <backend / cloud / distributed systems / infra>
+- Open to internships / co-op 
+- Interested in backend / cloud / distributed systems / infra
