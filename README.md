@@ -4,9 +4,9 @@
 > Backend & Infrastructure Engineer building scalable, cloud-native systems —
 > with hands-on experience in **distributed training on multi-GPU HPC clusters**.
 
-🎓 M.S. Information Systems @ [Northeastern University](https://www.northeastern.edu) (CSYE)
-🔭 Currently benchmarking parallel ML training (DDP / FSDP) on V100 SLURM clusters
-🚀 Open to **2026 Co-op / New Grad** roles in Cloud DevOps, HPC / AI Infrastructure, and Full-Stack Engineering
+🎓 M.S. Information Systems @ [Northeastern University](https://www.northeastern.edu) (CSYE)<br>
+🔭 Currently benchmarking parallel ML training (DDP / FSDP) on V100 SLURM clusters<br>
+🚀 Open to **2026 Co-op / New Grad** roles in Cloud DevOps, HPC / AI Infrastructure, and Full-Stack Engineering<br>
 📍 Boston, MA · Open to relocation
 
 ---
@@ -96,5 +96,4 @@
 - 🌐 **GitHub** — you're already here :)
 
 ---
-
 
