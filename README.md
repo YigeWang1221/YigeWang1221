@@ -1,17 +1,22 @@
-# Hi! I'm Yige Wang, and you can call me Eric 👋
+# Hi, I'm Yige (Eric) Wang 👋
 
-- 💻 I am a SDE trained by [Northeastern University](https://www.northeastern.edu)
-- 🎯 Java backend engineer, system design and cloud computing
-- 🔍 I'm currently studying on HPC, hoping it will speed up daily bussiness app backend performerce  
+> Backend & Infrastructure Engineer building scalable, cloud-native systems —
+> with hands-on experience in **distributed training on multi-GPU HPC clusters**.
+
+🎓 M.S. Information Systems @ [Northeastern University](https://www.northeastern.edu) (CSYE)
+🔭 Currently benchmarking parallel ML training (DDP / FSDP) on V100 SLURM clusters
+🚀 Open to **2026 Co-op / New Grad** roles in Cloud DevOps, HPC / AI Infrastructure, and Full-Stack Engineering
+📍 Boston, MA · Open to relocation
 
 ---
 
 ## 🔍 About Me
 
-- 👨‍💻 bacholer in Engineer {Software Engineer} / master in Engineer {Information Sys}
-- ☁️ Cloud / backend / system design interests
-- 🧠 Problem-solving / engineering mindset
-- 🚀 looking for a Co-op job right now 
+- 🛠️ **Cloud-native backend** — Spring Boot microservices on AWS, infrastructure-as-code with Terraform, automated CI/CD
+- ⚡ **HPC & distributed systems** — DDP / FSDP training on multi-GPU clusters (V100, NCCL, SLURM); profiling communication overhead and scaling efficiency
+- 🌐 **Full-stack delivery** — shipped end-to-end systems with Spring Boot + Vue/React, MySQL/PostgreSQL, MinIO, RBAC
+- 🧠 **What I care about** — reliability, observability, and performance — building systems that are *fast, correct, and easy to operate*
+
 
 ---
 
@@ -39,40 +44,49 @@
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Tech Stack
 
-### Languages
-![Java](https://img.shields.io/badge/Java-orange)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
+**Languages**
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-00599C?logo=cplusplus&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white)
 
-### Backend & Frameworks
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-green)
-![React](https://img.shields.io/badge/React-61DAFB)
+**Backend & Web**
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?logo=springsecurity&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-005571)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+[Vue.js]
 
-### Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1)
+**Cloud & DevOps**
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 
-### Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-232F3E)
-![Docker](https://img.shields.io/badge/Docker-2496ED)
-![Terraform](https://img.shields.io/badge/Terraform-623CE4)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF)
+**HPC & Parallel ML**
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+![CUDA](https://img.shields.io/badge/CUDA-76B900?logo=nvidia&logoColor=white)
+![SLURM](https://img.shields.io/badge/SLURM-2C3E50)
+![NCCL](https://img.shields.io/badge/NCCL-76B900?logo=nvidia&logoColor=white)
+![DDP/FSDP](https://img.shields.io/badge/DDP%20%2F%20FSDP-EE4C2C?logo=pytorch&logoColor=white)
 
-### OS & Tools
-![Linux](https://img.shields.io/badge/Linux-FCC624)
-![Bash](https://img.shields.io/badge/Bash-black)
+**Databases & Storage**
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)
+![MinIO](https://img.shields.io/badge/MinIO-C72E49?logo=minio&logoColor=white)
 
 ---
 
-## 📫 How to Reach Me
+## 📫 Contact
 
-- 💼 LinkedIn: [Linkedin](https://www.linkedin.com/in/yigewang1221/)
-- 📧 Email: [email](wang.yige@northeastern.edu)
+- 💼 **LinkedIn** — [linkedin.com/in/yigewang1221](https://www.linkedin.com/in/yigewang1221/)
+- 📧 **Email** — wang.yige@northeastern.edu
+- 🌐 **GitHub** — you're already here :)
 
 ---
 
-## 📌 Notes
-
-- Open to internships / co-op 
-- Interested in backend / cloud / distributed systems / infra
+> _Open to Co-op / New Grad opportunities — Cloud DevOps · HPC / AI Infrastructure · Full-Stack._
