@@ -22,6 +22,13 @@
 
 ## 📂 Featured Projects
 
+- **[Nano-GPT-HPC](https://github.com/CSYE7105-nanoGPT-HPC/Nano-GPT-HPC)**<br>
+  _Tech Stack:_ Python, PyTorch, DDP/FSDP, NCCL, SLURM, CUDA, V100, OpenWebText<br>
+  _Highlights:_
+  - Parallelized OpenWebText preprocessing with Python multiprocessing and GPT-2 BPE tokenization; tuned `imap` chunk size to reduce 8-worker tokenization time from 143.97s to 106.24s.
+  - Scaled 51.5M-parameter nanoGPT training on Northeastern Explorer V100-SXM2 GPUs using PyTorch DDP, mixed precision, `DDP.no_sync()`, `torchrun`, and SLURM.
+  - Increased training throughput from 113,945 to 451,823 tok/s on 4 GPUs, achieving 3.97x speedup and 99.1% scaling efficiency; benchmarked FSDP `FULL_SHARD` and NCCL NVLink/P2P vs. SHM transport.
+
 - **[native cloud app](https://github.com/csye6225YigeWang)**  
   _Tech Stack:_ AWS, Terraform, GitHub CI/CD pipeline, SpringBoot   
   _Highlights:_  
