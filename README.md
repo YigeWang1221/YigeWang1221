@@ -1,4 +1,5 @@
 # Hi, I'm Yige (Eric) Wang 👋
+> _Open to Co-op / New Grad opportunities — Cloud DevOps · HPC / AI Infrastructure · Full-Stack._
 
 > Backend & Infrastructure Engineer building scalable, cloud-native systems —
 > with hands-on experience in **distributed training on multi-GPU HPC clusters**.
@@ -96,4 +97,4 @@
 
 ---
 
-> _Open to Co-op / New Grad opportunities — Cloud DevOps · HPC / AI Infrastructure · Full-Stack._
+
